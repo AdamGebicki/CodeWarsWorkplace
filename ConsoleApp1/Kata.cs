@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    public static class Kata
+    public class Kata : IKataNames
     {
-        public static int Solution(int value)
+        public int Devided(int value)
         {
             int res = 0;
             for (int index = 0; index < value; index++)

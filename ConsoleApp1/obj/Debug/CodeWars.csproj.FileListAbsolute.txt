@@ -1,0 +1,10 @@
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\obj\Debug\CodeWars.csprojAssemblyReference.cache
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\obj\Debug\CodeWars.csproj.CopyComplete
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Coding\CodeWars\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

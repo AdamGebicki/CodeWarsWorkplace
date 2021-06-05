@@ -8,7 +8,7 @@ namespace ConsoleApp1
         [Test]
         public void Test()
         {
-            Assert.AreEqual(23, Kata.Solution(10));
+            Assert.AreEqual(23, new Kata().Devided(10));
         }
     }
 }
