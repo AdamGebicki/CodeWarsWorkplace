@@ -9,5 +9,6 @@ namespace ConsoleApp1
     interface IKataNames
     {
         int Devided(int value);
+        string CardMask(string cc);
     }
 }
